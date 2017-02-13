@@ -1,0 +1,7 @@
+import auth.api.User
+
+model {
+	User user
+}
+
+json g.render(user)

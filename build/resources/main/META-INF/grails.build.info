@@ -1,0 +1,6 @@
+#Wed, 25 Jan 2017 13:46:58 +0800
+
+info.app.version=unspecified
+info.app.name=auth-api
+grails.env=production
+info.app.grailsVersion=3.2.3
